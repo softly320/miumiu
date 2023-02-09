@@ -34,9 +34,9 @@ $(document).ready(function () {
             disableOnInteraction: false
         },
         loop: true,
-        slidesPerView: 2,
+        slidesPerView: 1,
         centeredSlides: true,
-        spaceBetween: 10
+        spaceBetween: 1
     })
 
     $('.swiper-slide').on('mouseover', function(){

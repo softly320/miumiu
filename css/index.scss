@@ -443,6 +443,7 @@ body,html{
 
 
     .shoes{
+        width: 100%;
         text-align: center;
         .swiper-container{
             max-width: 1200px; 
@@ -451,7 +452,7 @@ body,html{
                 flex-direction: column;
                 align-items: center;
                 justify-content: center;
-                width: 100%;
+                width: 1200px;
                 img{
                     width: 100%;
                 }
