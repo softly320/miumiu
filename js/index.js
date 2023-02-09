@@ -34,7 +34,7 @@ $(document).ready(function () {
             disableOnInteraction: false
         },
         loop: true,
-        slidesPerView: 1,
+        slidesPerView: 1.3,
         centeredSlides: true,
         spaceBetween: 1
     })
